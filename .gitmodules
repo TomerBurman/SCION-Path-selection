@@ -1,0 +1,4 @@
+[submodule "external-seed-emulator"]
+	path = external-seed-emulator
+	url = https://github.com/netsys-lab/seed-emulator.git
+	branch = tjohn327/testbed
